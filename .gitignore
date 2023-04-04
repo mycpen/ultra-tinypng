@@ -1,3 +1,7 @@
 /output
 /source
-/dist
+/dist/source
+/dist/output
+/dist/cp_output_to_imagebed.lnk
+/dist/ftp_local_upyun.lnk
+/dist/git_push_imagebed.lnk
